@@ -78,6 +78,7 @@ YatraMap/
 
 ## ▶️ Setup & Installation  
 git clone https://github.com/kushal255/YatraMap.git
+
 cd YatraMap
 
 
