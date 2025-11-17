@@ -44,16 +44,17 @@ This project demonstrates real-time communication, mobile geolocation, and dynam
 - HTTP Server
 
 ---
+## 📂 Project Structure
 
-## 📂 Project Structure  
+```
 YatraMap/
 │
 ├── public/
 │   ├── js/
 │   │   └── script.js
 │   ├── css/
-│      └── style.css
-│  
+│       └── style.css
+│   
 │
 ├── views/
 │   └── index.ejs
@@ -63,8 +64,7 @@ YatraMap/
 ├── package-lock.json
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## ⚙️ How It Works  
 1. User opens the app  
