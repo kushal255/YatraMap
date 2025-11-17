@@ -47,17 +47,22 @@ This project demonstrates real-time communication, mobile geolocation, and dynam
 
 ## 📂 Project Structure  
 YatraMap/
-│── public/  
-│   ├── js/  
-│   ├── css/  
-│   └── images/  
+│
+├── public/
+│   ├── js/
+│   │   └── script.js
+│   ├── css/
+│      └── style.css
 │  
-│── views/  
-│   └── index.ejs  
-│  
-│── app.js  
-│── package.json  
-│── README.md  
+│
+├── views/
+│   └── index.ejs
+│
+├── app.js
+├── package.json
+├── package-lock.json
+├── .gitignore
+└── README.md
 
 ---
 
@@ -72,7 +77,7 @@ YatraMap/
 ---
 
 ## ▶️ Setup & Installation  
-git clone https://github.com/your-username/YatraMap.git
+git clone https://github.com/kushal255/YatraMap.git
 cd YatraMap
 
 
@@ -97,10 +102,6 @@ To test on phone:
 3. Open on phone browser:
 
 http://YOUR_IPV4:3000
-
-Example:
-
-http://192.138.1.37:3000
 
 4. Allow location permission  
 5. Move physically — marker updates live  
